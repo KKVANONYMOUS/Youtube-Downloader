@@ -6,6 +6,8 @@
   2)Progress bar
  # Requirements:
  Go in command shell and type:
- <strong>pip install pytube3</strong>
+ ```bash
+ $ pip install pytube3
+ ```
  # Note: Currently the videos will be downloaded in the best resolution available...more updates are coming soon
  
